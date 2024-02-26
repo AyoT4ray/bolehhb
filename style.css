@@ -1,0 +1,29 @@
+/* styles.css */
+
+body {
+  background-color: pink;
+}
+
+.navbar {
+  border-bottom: 2px solid #343a40;
+}
+
+.card:hover {
+  transition: transform 0.2s;
+  background-color: palegreen
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+
+.exp-des { display: flex; justify-content: center; gap: 20px; }
+
+.exp-des-2 { display: flex; justify-content: center; gap: 20px; margin-top: 3%; }
+
+.ft{ width: 300px; border-radius: 8px; }
+
+.TETX {
+  text-align: center;
+}
